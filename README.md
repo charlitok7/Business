@@ -1,5 +1,5 @@
-# Page-web
-<!DOCTYPE html>
+# BOUTIQUE 
+
 <html>
 <head>
     <title>Formulaire d'inscription</title>
