@@ -4,6 +4,7 @@
 <head>
     <title>Formulaire d'inscription</title>
     <link rel="stylesheet" type="text/css" href="Vuecss.css">
+    <src="Uploading Gallery of Neriage Store _ Estúdio Sumaúma  - 9.png" alt="" > 
     <style>
         body {
             background-color: blue;
@@ -46,6 +47,7 @@
     </style>
 </head>
 <body>
+    
     <div class="container">
         <form>
             <h2>Inscription</h2>
